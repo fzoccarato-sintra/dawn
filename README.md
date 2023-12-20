@@ -1,3 +1,4 @@
+[![Board Status](https://sintraconsulting.visualstudio.com/4873696b-9669-4aea-8cc0-f7b4e54f2141/82cf8545-b8b3-4463-97a0-498f29117d5f/_apis/work/boardbadge/6eb1a656-0c9a-48da-9677-f2df792cb73d)](https://sintraconsulting.visualstudio.com/4873696b-9669-4aea-8cc0-f7b4e54f2141/_boards/board/t/82cf8545-b8b3-4463-97a0-498f29117d5f/Microsoft.RequirementCategory)
 # Dawn
 
 [![Build status](https://github.com/shopify/dawn/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/Shopify/dawn/actions/workflows/ci.yml?query=branch%3Amain)
